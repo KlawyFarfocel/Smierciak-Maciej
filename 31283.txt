@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-Zmiany  bez konfliktu
+Zmiany test_branch
 =======
 wielkie zmiany
 >>>>>>> d0d5d53 (wielkie zmiany)
